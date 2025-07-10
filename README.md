@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @greekie-via-linux
-- 👀 I’m interested in BASH shell scripts and having non-NixOS GNU/Linux Distributions be reproducible
-- 🌱 I’m currently learning BASH shell script writing
-- 💞️ I’m looking to collaborate on making a Gentoo, Void Linux, and Slackware package installer
-- 📫 How to reach me: https://linktr.ee/greekievialinux
-- 😄 Pronouns: She/Her
+- 👋 Hi, I’m @skylarkoningin
+- 😄 Pronouns: She/Her, They/Them, or It
 - 🏳️‍🌈 LGBT Labels: Transfeminine Girlflux Pansexual 
 
 <!---
